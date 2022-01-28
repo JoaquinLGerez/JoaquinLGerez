@@ -1,7 +1,7 @@
 ## Hola, soy Joaquin! 👋 
 
 
-![Introduccion al readme.md](/gitportada.png "Joaquin Gerez FullStack Developer").
+![Introduccion al readme.md](/gitportada.png "Joaquin Gerez FullStack Developer")
 
 
 ### Sobre mi
