@@ -6,7 +6,7 @@
 
 ### Sobre mi
 
-🌱 Tengo 20 años, estudio Analista en Tecnologias de la Informacion en la Universidad Nacional de La Plata, aqui van a poder ver mis proyectos y como con cada uno de ellos aprendo algo nuevo. 
+🌱 Estudio Analista en Tecnologias de la Informacion en la Universidad Nacional de La Plata, aca van a poder ver mis proyectos y como con cada uno de ellos aprendo algo nuevo. 
 
 📚 Tengo conocimientos en tecnologias como { Javascript, NodeJS, Express, React, MySQL, Git, Metodologias Agiles, HTML, CSS} y soy senior en google.com
 
