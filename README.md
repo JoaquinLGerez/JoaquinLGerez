@@ -1,34 +1,36 @@
-c## Hola, soy Joaquin! 👋 
+# Hola, soy Joaquín! 👋 
 
-![Introduccion al readme.md](/gitportada.png "Joaquin Gerez FullStack Developer")
+![Introducción al readme.md](/gitportada.png "Joaquín Geréz - FullStack Developer")
 
-### Sobre mi
+---
 
-🌱I'm currently Full Stack Developer in Presidency of the Nation
+## Sobre mí
 
-👀 Ask me about music, technology or lorem ipsum 
+🌱 **Actualmente soy Desarrollador Full Stack en la Presidencia de la Nación**
 
-<!--- JoaquinLGerez/JoaquinLGerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+👀 **Pregúntame sobre música, tecnología o Lorem Ipsum**
 
-#### Connect with me:
+---
 
-[![LinkedIn](https://example.com/linkedin-logo.png)](https://www.linkedin.com/in/yourusername)
-[![Facebook](https://example.com/facebook-logo.png)](https://www.facebook.com/yourusername)
-[![Discord](https://example.com/discord-logo.png)](https://discordapp.com/invite/yourusername)
+### Conéctate conmigo:
 
-### Language and tools:
+[![LinkedIn](https://example.com/linkedin-logo.png)](https://www.linkedin.com/in/yourusername) [![Facebook](https://example.com/facebook-logo.png)](https://www.facebook.com/yourusername) [![Discord](https://example.com/discord-logo.png)](https://discordapp.com/invite/yourusername)
 
-#### Backend:
+---
+
+## Lenguajes y herramientas:
+
+### Backend:
 [![Icono de backend](url-del-icono-backend.png)](url-del-backend)
 
-#### Frontend:
+### Frontend:
 [![Icono de frontend](url-del-icono-frontend.png)](url-del-frontend)
 
-#### Database:
+### Base de datos:
 [![Icono de base de datos](url-del-icono-base-de-datos.png)](url-de-la-base-de-datos)
 
-#### Cloud servers:
+### Servidores en la nube:
 [![Icono de servidores en la nube](url-del-icono-servidores-nube.png)](url-de-los-servidores-nube)
 
-#### Tools:
+### Herramientas:
 [![Icono de herramientas](url-del-icono-herramientas.png)](url-de-las-herramientas)
